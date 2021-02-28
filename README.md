@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Screenshot](photoboom-desktop.png)
-[Screenshot](photoboom-mobile.png)
+![Screenshot](photoboom-desktop.png)
+![Screenshot](photoboom-mobile.png)
 
 ## Available Scripts
 
